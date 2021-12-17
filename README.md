@@ -60,7 +60,7 @@ BiliBiliTool
 - **支持多账号**
 - **理论上支持所有远端的日志推送（默认支持推送到Telegram、企业微信、钉钉、PushPlus、Server酱、钉钉、酷推，另外也支持自定义推送到任意api）**
 
-还有其他一些辅助小功能，大家可以自己去自由探索~
+还有其他一些辅助小功能，大家可以自己去自由探索~~
 
 ![运行图示](https://cdn.jsdelivr.net/gh/RayWangQvQ/BiliBiliTool.Docs@main/imgs/run-exe.png)
 
