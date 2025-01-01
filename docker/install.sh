@@ -18,7 +18,7 @@ echo ' |  _ < (_| | |_| | | |_) | | | | | | (_) | (_) | | '
 echo ' |_| \_\__,_|\__, | |____/|_|_|_| |_|\___/ \___/|_| '
 echo '             |___/                                  '
 
-githubProxy="https://ghproxy.com/"
+githubProxy="https://ghgo.xyz"
 
 infFileName="ray-inf.sh"
 [ -f $infFileName ] || {
